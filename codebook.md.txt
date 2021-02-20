@@ -1,8 +1,8 @@
-******************************************************
 Getting and cleaning data - course assignment databook
-******************************************************
+======================================================
 
-The file created by run_analysis.R creates a dataframe with the mean of the variables listed below for each Exercise_ID and each Person_ID. Person_ID is a number from 1 to 30, Exercise_IDs are as follows
+The file created by run_analysis.R creates a dataframe with the mean of the variables listed below for each Exercise_ID and each Person_ID.
+Person_ID is a number from 1 to 30, Exercise_IDs are as follows
 
 1 WALKING
 2 WALKING_UPSTAIRS
